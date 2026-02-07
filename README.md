@@ -322,8 +322,22 @@ def generate_markdown_notes(doc: NotesDocument) -> str:
 
 ---
 
-## License
+## 👤 作者 (Author)
 
-MVP 阶段：默认仅学习交流用途（如需开源协议可再补）。
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 Deadline.</sub>
+
+</div>
 
 
