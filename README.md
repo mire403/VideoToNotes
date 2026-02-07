@@ -1,6 +1,10 @@
+<div align="center">
+
 # VideoToNotes（视频直接变学习笔记）📼➡️📝
 
 一句话：**Turn a video into structured study notes.**
+
+</div>
 
 > 你只管看视频，其余交给它：自动提炼结构、重点、结论，并附上时间戳，复习时直接定位回看。⏱️
 
@@ -321,4 +325,5 @@ def generate_markdown_notes(doc: NotesDocument) -> str:
 ## License
 
 MVP 阶段：默认仅学习交流用途（如需开源协议可再补）。
+
 
