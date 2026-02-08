@@ -334,11 +334,12 @@ def generate_markdown_notes(doc: NotesDocument) -> str:
 
 <div align="center">
 
-
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
 
 <sub>Made by Haoze Zheng. 2026 VideoToNotes.</sub>
 
 </div>
+
 
 
 
